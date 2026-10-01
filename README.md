@@ -63,7 +63,7 @@ Atualmente estou focado em melhorar minhas habilidades de desenvolvimento web, b
 
 `HTML` `CSS` `JavaScript` `Node.js` `supabase`
 
-[![USY](https://github-readme-stats.vercel.app/api/pin/?username=Vtrmac\&repo=usy\&theme=github_dark\&hide_border=true)](https://github.com/Vtrmac/usy)
+[![USY](https://github-readme-stats.vercel.app/api/pin/?username=Vtrmac\&repo=Usypfc\&theme=github_dark\&hide_border=true)](https://github.com/Vtrmac/Usypfc)
 
 
 
